@@ -1,5 +1,5 @@
 {
-  "name": "quantumd-rpc",
+  "name": "qtumd-rpc",
   "description": "QUANTUM Client Library to connect to Quantum Core via RPC",
   "version": "0.0.1",
   "author": {
