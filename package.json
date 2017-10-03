@@ -1,7 +1,7 @@
 {
   "name": "qtumd-rpc",
   "description": "QTUM Client Library to connect to QTUM Core via RPC",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": {},
   "contributors": [],
   "keywords": [
